@@ -1,4 +1,4 @@
-#Computer Vision
+# Computer Vision
 
 During this pandemic I proposed myself to polish my Computer Vision and Deep Learning skills by doing from basic to advanced lectures found online.
 
